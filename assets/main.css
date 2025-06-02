@@ -8,6 +8,7 @@ body {
   font-size: 16px;
   color: #fff;
   background-color: #121113;
+   overflow-x: hidden;
 }
 
 .section {
